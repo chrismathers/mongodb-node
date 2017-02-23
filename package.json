@@ -1,0 +1,15 @@
+{
+  "name": "My-First-MongoDB-App",
+  "version": "0.1.0",
+  "description": "Simple MongoDB example with Mongoose on Node.js",
+  "main": "app.js",
+  "engines" : {
+    "node" : "0.8",
+    "npm" : "&gt;=1.1"
+  },
+  "author": "Kevin Chisholm",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "3.5.7"
+  }
+}
